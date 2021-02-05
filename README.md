@@ -33,7 +33,12 @@
 
 <details>
   <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Script-Kiddie-JKB&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarShafin&layout=compact" />
+</details>
+
+<details>
+  <summary>😄 Here is meme for you, to make your day better</summary>
+   <a href="https://github.com/ShahriarShafin"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
  
