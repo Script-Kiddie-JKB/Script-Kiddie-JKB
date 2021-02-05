@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://Script-Kiddie-JKB.me/" target="_blank">Jaikishan</a>. Nice to see you <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"
-
- ![Profile views](https://gpvc.arturio.dev/Script-Kiddie-JKB?v=3)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://Script-Kiddie-JKB.me/" target="_blank">Jaikishan</a>. Nice to see you ☺ 
+ 
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"<img align='left'
 
 - :telescope: I'm Open Source Addicted :alien:
 - :hourglass_flowing_sand: Experimenting with Open Src Telegram Bots and learning JS,JAVA And React
@@ -8,6 +8,7 @@
 - :shipit: We live by the code & was raised by ethics
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: More Interested In Cyber Security Rather than Coding Stuff 😅
+
 <p>
  <img align="right" src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
