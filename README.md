@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://Script-Kiddie-JKB.me/" target="_blank">Jaikishan</a>. Nice to see you 🤩
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/Script-Kiddie-JKB" target="_blank">Jaikishan</a>. Nice to see you 🤩
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Profile views](https://gpvc.arturio.dev/Script-Kiddie-JKB?v=3)
 
