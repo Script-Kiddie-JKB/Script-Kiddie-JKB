@@ -9,7 +9,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: More Interested In Cyber Security Rather than Coding Stuff 😅
 <p>
- <img align="right" src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/multi.gif" width="310px alt="programmergif">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Script-Kiddie-JKB&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
