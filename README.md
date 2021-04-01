@@ -31,10 +31,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Script-Kiddie-JKB&show_icons=true&theme=merko" />
 </details>
 
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Script-Kiddie-JKB&layout=compact" />
-</details>
+<a href="https://github.com/Script-Kiddie-JKB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Script-Kiddie-JKB&theme=dark&hide_langs_below=1" />
+</a>>
 
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
