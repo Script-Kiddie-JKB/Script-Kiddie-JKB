@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Profile views](https://gpvc.arturio.dev/Script-Kiddie-JKB?v=3)
 
 - :telescope: I'm Open Source Addicted :alien:
-- :hourglass_flowing_sand: Experimenting with Open Src Telegram Bots and learning JS, Java and React 
+- :hourglass_flowing_sand: Experimenting with Open Src Telegram Bots and learning JS, Flutter.
 - :microscope: Always ready to collaborate for Dev Experiments
 - :shipit: We live by the code & was raised by ethics
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
