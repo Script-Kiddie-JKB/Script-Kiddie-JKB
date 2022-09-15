@@ -96,10 +96,11 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b>Connect with me through 👇 </em>
  
+ <p align="center">
 <a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a><a href="https://t.me/Its_Mirror_Here"><img src="https://telegra.ph/file/713d7edc822779857018b.png" width="45"></a><a href="mailto:Jaikishanbagul9@gmail.com"><img src="Assets/7089163_gmail_google_icon.png" width="40"></a>
 <br>
 <br>
-
+</p>
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 <a href='https://github.com/Script-Kiddie-JKB-das?tab=repositories'><img align='center'  height="25" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=Script-Kiddie-JKB&logoColor=blue" /></a></h4>
