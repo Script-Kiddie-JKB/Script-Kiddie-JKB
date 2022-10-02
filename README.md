@@ -61,7 +61,7 @@
    <a href="https://github.com/Script-Kiddie-JKB"><img src="https://telegra.ph/file/4de589d532043afba0823.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wou2q5gat9ds8hpoela60gan0&redirect=true&cover_image=true&theme=default&show_offline=true&bar_color_cover=true" /></div>   
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wou2q5gat9ds8hpoela60gan0&redirect=truecover_image=true&cover_image=true&theme=default&show_offline=true" /></div>   
  <br> 
 
 <div align="center">
